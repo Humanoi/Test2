@@ -1,1 +1,1 @@
-# Test2
+# Test2 (repo for git demo to juniors)
